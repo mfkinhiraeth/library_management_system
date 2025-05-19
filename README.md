@@ -14,15 +14,15 @@
 
 
 ## 📌 Introduction
-- The Library Management System is a web-based application designed to simplify and automate the day-to-day operations of a library using the Model-View-Controller (MVC) architecture. It allows users to easily search for books, borrow and return them, while enabling administrators and librarians to manage inventory, track borrow history, and issue notifications for overdue items. Built with Laravel, the system ensures a structured and efficient backend while providing a clean and user-friendly interface. This application aims to replace traditional manual processes, reduce errors, and enhance the overall library experience for both staff and users.
+- The Library Management System is a web-based application designed to simplify and automate the day-to-day operations of a library using the Model-View-Controller (MVC) architecture. It allows users to easily search for books, borrow and return them. Users also can make book reservation in case the book is not available at the time being. Our system also offers membership package where we have various benefits such as fine deduction if the user buy it. User also will not be missed any kind of overdue dates or any upcoming events due to notification system in our website. Built with Laravel, the system ensures a structured and efficient backend while providing a clean and user-friendly interface. This application aims to replace traditional manual processes, reduce errors, and enhance the overall library experience for both staff and users.
 
 
 ## 📌 Objectives
 1. To design and implement a functional library management system using the MVC framework.
-2. To provide role-based access (admin, librarian, member) with tailored functionalities.
-3. To digitize book borrowing, returning, and inventory tracking processes.
-4. To enhance user experience with a searchable catalog and history tracking.
-5. To demonstrate understanding of Laravel MVC architecture in a real-world application.
+3. To digitize book borrowing and retutning system.
+4. To enhance user experience with a reservation function.
+5. To make sure our website is efficient by having fines system that the user can pay fine anytime and anywhere.
+6. To demonstrate understanding of Laravel MVC architecture in a real-world application.
 
 
 ## 📌 Features and Functionalities
