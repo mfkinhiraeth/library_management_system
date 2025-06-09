@@ -1,6 +1,6 @@
 # 📚 Library Management System
 
-## 👥 Group Members TEST
+## 👥 Group Members
 
 1. Muhammad Fadhil Bin Mansor --- 2222961  
 2. Mohammad Ismail Nasrullah Bin Halim --- 2221429  
