@@ -111,33 +111,40 @@ The LMS web application includes the following core features:
 ![WhatsApp Image 2025-06-12 at 07 23 01_006b556f](https://github.com/user-attachments/assets/1b99879d-3470-4d7e-b423-08c89114c2cb)
 
 2. Home Page
-![WhatsApp Image 2025-06-12 at 07 23 00_2274d6d5](https://github.com/user-attachments/assets/db014e6f-18cd-4aa8-800a-d8d105aaba6b)
-![WhatsApp Image 2025-06-12 at 07 23 01_0a516d4c](https://github.com/user-attachments/assets/517bae43-600a-416f-aeaa-d9fd266d6b00)
+![hm1](https://github.com/user-attachments/assets/009361a3-1591-4a55-8656-be1328fc5322)
+![hm2](https://github.com/user-attachments/assets/9de2256b-8731-4819-9632-78d5907b5a98)
 
 3. Book Catalogue
-![WhatsApp Image 2025-06-12 at 07 23 01_0a516d4c](https://github.com/user-attachments/assets/47ccf3bc-eea1-403f-a5bd-2cc76f07ddd7)
+![bc](https://github.com/user-attachments/assets/e7e647c2-d706-4557-a2a3-4015d62d6cfe)
 
 4. Borrow Page
-![WhatsApp Image 2025-06-12 at 07 23 01_0a516d4c](https://github.com/user-attachments/assets/af74f5c7-1775-4b36-a281-39977f4f3c9b)
+![borrow](https://github.com/user-attachments/assets/27c3ed5e-ce40-416e-b6fd-419a46421e8b)
 
 5. Return Page
-![WhatsApp Image 2025-06-12 at 07 23 01_0a516d4c](https://github.com/user-attachments/assets/19d7024d-7fb6-4ea7-96bf-8bef116ab69a)
+![return](https://github.com/user-attachments/assets/06fa8df7-1526-47ad-94d9-66fc8a8442b4)
 
 6. Reservation Page
-![WhatsApp Image 2025-06-12 at 07 23 01_0a516d4c](https://github.com/user-attachments/assets/6b873fcb-a36d-4b31-8567-c7d2018a534c)
+![reserve](https://github.com/user-attachments/assets/edb5b515-8143-4fed-8844-ce1b7ea002dc)
 
 7. Profile Page
-![WhatsApp Image 2025-06-12 at 07 23 01_f0268c83](https://github.com/user-attachments/assets/aaaca50e-c75a-4991-a6b7-8d0b624b63b5)
-![WhatsApp Image 2025-06-12 at 07 23 01_7848a0d9](https://github.com/user-attachments/assets/dbfa3c1a-72e3-4f5d-80ab-bbf437be88c8)
-![WhatsApp Image 2025-06-12 at 07 23 01_0a516d4c](https://github.com/user-attachments/assets/ccfb6b9b-3b42-4ed2-974a-a324a4ea95b8)
+![profile1](https://github.com/user-attachments/assets/09432792-8d51-4b30-aec4-4454882c798d)
+![profile2](https://github.com/user-attachments/assets/22e80a7b-3ae6-4741-8b5e-a860eb41421c)
+![profile3](https://github.com/user-attachments/assets/185d76d0-ba02-4ee4-85e5-e9ce2b6aa95e)
 
 8. Membership System
-![WhatsApp Image 2025-06-12 at 07 23 01_0a516d4c](https://github.com/user-attachments/assets/24c3baf4-ab2d-4582-bde1-41d1aea85731)
+![membership](https://github.com/user-attachments/assets/d022ad24-61a5-4039-992c-fcebf75a568b)
+
 
 ## 📌 Challenges/Difficulties
 
+ 1. Fixing bugs and errors .
+ 2. Connnecting to the database .
+ 3. Setting up the routing .
+ 4. Linking all the pages to the mainpage to display the full website .
+
 
 ## 📌 References
+
 1. geeksforgeeks. (2024, January 12). Library Management System Project | Software Development. GeeksforGeeks. https://www.geeksforgeeks.org/library-management-system/
 
 2. How to Draw Entity Relationship Diagrams. (2024, January 7). GeeksforGeeks. https://www.geeksforgeeks.org/how-to-draw-entity-relationship-diagrams/
