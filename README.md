@@ -21,7 +21,7 @@
 1. To design and implement a functional library management system using the MVC framework.
 3. To digitize book borrowing and retutning system.
 4. To enhance user experience with a reservation function.
-5. To make sure our website is efficient by having fines system that the user can pay fine anytime and anywhere.
+5. To make sure our website is efficient that the user can use anytime and anywhere.
 6. To demonstrate understanding of Laravel MVC architecture in a real-world application.
 
 
@@ -29,28 +29,27 @@
 The LMS web application includes the following core features:
 
 1. **User Authentication**  
-   - Sign up / Sign in / Role-based login (Admin, Librarian, Member)
+   - Sign up / Sign in 
 
 2. **Book Borrowing System**  
-   - Borrow books (Members)  
-   - Set return due dates and manage borrowing limits
+   - Borrow books 
+   - Set return due dates
 
 3. **Book Returning System**  
    - Return books  
    - Automatic fine calculation for overdue items
 
-4. **Book Reservation System**  
-   - Users can search for books by title, author, genre, or availability
+4. **Room Reservation System**  
+   - Users can reserve any available discussion room in the library
 
-6. **Refund and Fine System**  
-   - Allow user to check fines, pay fines and request refunds online
-
-7. **Notifications System**  
-   - Reminders for due dates, fines, membership and events
+7. **Profile Page System**  
+   - User can manage their own profile for the website (eg: edit profile picture)
   
 8. **Membership System**
    - User can make new membership if they does not have one or update their membership.
-   - User can get various benefits from the membership
+  
+9. **Book Catalogue**
+    - User can view the books that the library has inside the Book Catalogue page
 
 
 ## 📌 Entity Relationship Diagram
@@ -105,6 +104,37 @@ The LMS web application includes the following core features:
 
 7. Notification Page
 ![Screenshot 2025-05-19 221214](https://github.com/user-attachments/assets/1e788f39-09d2-4f6a-8196-dcb1db617545)
+
+## 📌 Project System Captured Screen & Explanation
+
+1. Sign In/Sign Up
+![WhatsApp Image 2025-06-12 at 07 23 01_006b556f](https://github.com/user-attachments/assets/1b99879d-3470-4d7e-b423-08c89114c2cb)
+
+2. Home Page
+![WhatsApp Image 2025-06-12 at 07 23 00_2274d6d5](https://github.com/user-attachments/assets/db014e6f-18cd-4aa8-800a-d8d105aaba6b)
+![WhatsApp Image 2025-06-12 at 07 23 01_0a516d4c](https://github.com/user-attachments/assets/517bae43-600a-416f-aeaa-d9fd266d6b00)
+
+3. Book Catalogue
+![WhatsApp Image 2025-06-12 at 07 23 01_0a516d4c](https://github.com/user-attachments/assets/47ccf3bc-eea1-403f-a5bd-2cc76f07ddd7)
+
+4. Borrow Page
+![WhatsApp Image 2025-06-12 at 07 23 01_0a516d4c](https://github.com/user-attachments/assets/af74f5c7-1775-4b36-a281-39977f4f3c9b)
+
+5. Return Page
+![WhatsApp Image 2025-06-12 at 07 23 01_0a516d4c](https://github.com/user-attachments/assets/19d7024d-7fb6-4ea7-96bf-8bef116ab69a)
+
+6. Reservation Page
+![WhatsApp Image 2025-06-12 at 07 23 01_0a516d4c](https://github.com/user-attachments/assets/6b873fcb-a36d-4b31-8567-c7d2018a534c)
+
+7. Profile Page
+![WhatsApp Image 2025-06-12 at 07 23 01_f0268c83](https://github.com/user-attachments/assets/aaaca50e-c75a-4991-a6b7-8d0b624b63b5)
+![WhatsApp Image 2025-06-12 at 07 23 01_7848a0d9](https://github.com/user-attachments/assets/dbfa3c1a-72e3-4f5d-80ab-bbf437be88c8)
+![WhatsApp Image 2025-06-12 at 07 23 01_0a516d4c](https://github.com/user-attachments/assets/ccfb6b9b-3b42-4ed2-974a-a324a4ea95b8)
+
+8. Membership System
+![WhatsApp Image 2025-06-12 at 07 23 01_0a516d4c](https://github.com/user-attachments/assets/24c3baf4-ab2d-4582-bde1-41d1aea85731)
+
+## 📌 Challenges/Difficulties
 
 
 ## 📌 References
