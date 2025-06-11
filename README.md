@@ -54,7 +54,7 @@ The LMS web application includes the following core features:
 
 ## 📌 Entity Relationship Diagram
 
-![ERD for WAD (2)](https://github.com/user-attachments/assets/0f7adad1-b03c-47b5-a4cc-3a03b506628c)
+![ERD 2025-06-12 075550](https://github.com/user-attachments/assets/24c4692c-18dc-47f2-a7dc-a3aed58f3cf8)
 
 
 ## 📌 Sequence Diagram
