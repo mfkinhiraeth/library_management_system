@@ -21,7 +21,7 @@
 1. To design and implement a functional library management system using the MVC framework.
 3. To digitize book borrowing and retutning system.
 4. To enhance user experience with a reservation function.
-5. To make sure our website is efficient by having fines system that the user can pay fine anytime and anywhere.
+5. To make sure our website is efficient that the user can use anytime and anywhere.
 6. To demonstrate understanding of Laravel MVC architecture in a real-world application.
 
 
@@ -29,33 +29,32 @@
 The LMS web application includes the following core features:
 
 1. **User Authentication**  
-   - Sign up / Sign in / Role-based login (Admin, Librarian, Member)
+   - Sign up / Sign in 
 
 2. **Book Borrowing System**  
-   - Borrow books (Members)  
-   - Set return due dates and manage borrowing limits
+   - Borrow books 
+   - Set return due dates
 
 3. **Book Returning System**  
    - Return books  
    - Automatic fine calculation for overdue items
 
-4. **Book Reservation System**  
-   - Users can search for books by title, author, genre, or availability
+4. **Room Reservation System**  
+   - Users can reserve any available discussion room in the library
 
-6. **Refund and Fine System**  
-   - Allow user to check fines, pay fines and request refunds online
-
-7. **Notifications System**  
-   - Reminders for due dates, fines, membership and events
+7. **Profile Page System**  
+   - User can manage their own profile for the website (eg: edit profile picture)
   
 8. **Membership System**
    - User can make new membership if they does not have one or update their membership.
-   - User can get various benefits from the membership
+  
+9. **Book Catalogue**
+    - User can view the books that the library has inside the Book Catalogue page
 
 
 ## 📌 Entity Relationship Diagram
 
-![ERD for WAD (2)](https://github.com/user-attachments/assets/0f7adad1-b03c-47b5-a4cc-3a03b506628c)
+![ERD 2025-06-12 075550](https://github.com/user-attachments/assets/24c4692c-18dc-47f2-a7dc-a3aed58f3cf8)
 
 
 ## 📌 Sequence Diagram
@@ -66,10 +65,7 @@ The LMS web application includes the following core features:
 2. Book Resevation System
 ![Screenshot 2025-05-19 220214](https://github.com/user-attachments/assets/678ad156-613b-401f-9893-d14459d9b354)
 
-3. Refund and Fine System
-![Screenshot 2025-05-19 220407](https://github.com/user-attachments/assets/262b239c-6afd-4bf1-bb64-422457a7e5d5)
-
-4. Membership System
+3. Membership System
 ![Screenshot 2025-05-19 220509](https://github.com/user-attachments/assets/7467125c-111b-471d-82ba-3abfd1056217)
 
 
@@ -103,16 +99,73 @@ The LMS web application includes the following core features:
 ![Screenshot 2025-05-19 221131](https://github.com/user-attachments/assets/73659176-63c3-4860-9fce-46cf38a5430c)
 ![Screenshot 2025-05-19 221200](https://github.com/user-attachments/assets/a77ca373-b35a-47b9-8439-8e9fe826c259)
 
-7. Notification Page
-![Screenshot 2025-05-19 221214](https://github.com/user-attachments/assets/1e788f39-09d2-4f6a-8196-dcb1db617545)
+
+## 📌 Project System Captured Screen & Explanation
+
+1. Sign In/Sign Up
+![WhatsApp Image 2025-06-12 at 07 23 01_006b556f](https://github.com/user-attachments/assets/1b99879d-3470-4d7e-b423-08c89114c2cb)
+
+2. Home Page
+![hm1](https://github.com/user-attachments/assets/009361a3-1591-4a55-8656-be1328fc5322)
+![hm2](https://github.com/user-attachments/assets/9de2256b-8731-4819-9632-78d5907b5a98)
+
+3. Book Catalogue
+![bc](https://github.com/user-attachments/assets/e7e647c2-d706-4557-a2a3-4015d62d6cfe)
+
+4. Borrow Page
+![borrow](https://github.com/user-attachments/assets/27c3ed5e-ce40-416e-b6fd-419a46421e8b)
+
+5. Return Page
+![return](https://github.com/user-attachments/assets/06fa8df7-1526-47ad-94d9-66fc8a8442b4)
+
+6. Reservation Page
+![reserve](https://github.com/user-attachments/assets/edb5b515-8143-4fed-8844-ce1b7ea002dc)
+
+7. Profile Page
+![profile1](https://github.com/user-attachments/assets/09432792-8d51-4b30-aec4-4454882c798d)
+![profile2](https://github.com/user-attachments/assets/22e80a7b-3ae6-4741-8b5e-a860eb41421c)
+![profile3](https://github.com/user-attachments/assets/185d76d0-ba02-4ee4-85e5-e9ce2b6aa95e)
+
+8. Membership System
+![membership](https://github.com/user-attachments/assets/d022ad24-61a5-4039-992c-fcebf75a568b)
+
+
+## 📌 Challenges/Difficulties
+
+ 1. Fixing bugs and errors .
+ 2. Connnecting to the database .
+ 3. Setting up the routing .
+ 4. Linking all the pages to the mainpage to display the full website .
 
 
 ## 📌 References
+
 1. geeksforgeeks. (2024, January 12). Library Management System Project | Software Development. GeeksforGeeks. https://www.geeksforgeeks.org/library-management-system/
 
 2. How to Draw Entity Relationship Diagrams. (2024, January 7). GeeksforGeeks. https://www.geeksforgeeks.org/how-to-draw-entity-relationship-diagrams/
 
 3. GeeksforGeeks. (2017, October 27). Unified Modeling Language (UML) | Sequence Diagrams. GeeksforGeeks. https://www.geeksforgeeks.org/unified-modeling-language-uml-sequence-diagrams/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
