@@ -65,10 +65,7 @@ The LMS web application includes the following core features:
 2. Book Resevation System
 ![Screenshot 2025-05-19 220214](https://github.com/user-attachments/assets/678ad156-613b-401f-9893-d14459d9b354)
 
-3. Refund and Fine System
-![Screenshot 2025-05-19 220407](https://github.com/user-attachments/assets/262b239c-6afd-4bf1-bb64-422457a7e5d5)
-
-4. Membership System
+3. Membership System
 ![Screenshot 2025-05-19 220509](https://github.com/user-attachments/assets/7467125c-111b-471d-82ba-3abfd1056217)
 
 
