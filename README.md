@@ -99,8 +99,6 @@ The LMS web application includes the following core features:
 ![Screenshot 2025-05-19 221131](https://github.com/user-attachments/assets/73659176-63c3-4860-9fce-46cf38a5430c)
 ![Screenshot 2025-05-19 221200](https://github.com/user-attachments/assets/a77ca373-b35a-47b9-8439-8e9fe826c259)
 
-7. Notification Page
-![Screenshot 2025-05-19 221214](https://github.com/user-attachments/assets/1e788f39-09d2-4f6a-8196-dcb1db617545)
 
 ## 📌 Project System Captured Screen & Explanation
 
